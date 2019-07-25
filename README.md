@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f14d152d-f23f-4fcb-b22c-1b58ec78cf94/deploy-status)](https://app.netlify.com/sites/reggietheroman/deploys)
+
 # website
 
 This README outlines the details of collaborating on this Ember application.
