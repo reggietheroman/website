@@ -12,6 +12,7 @@
   },
   "scripts": {
     "build": "ember build",
+    "deploy": "ember build -e production && cp ./config/_redirects dist/",
     "lint:hbs": "ember-template-lint .",
     "lint:js": "eslint .",
     "start": "ember serve",
