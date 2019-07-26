@@ -1,6 +1,6 @@
 ---
 title: Hello, World! Again?
-image:
+image: built-by.jpg
 imageMeta:
   attribution:
   attributionLink:
@@ -12,6 +12,8 @@ tags:
   - new
 ---
 
-# Write Me
+# Hello, World! Again?
 
-Good luck on your new post!
+Hey everyone! So I finally got to updating my blog. Nothing special so far, but I'm really glad to say that this blog is made with Ember.js!
+
+I'll create a post detailing the steps so stay tuned for that!
